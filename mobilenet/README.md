@@ -87,7 +87,7 @@ mobilenet.load(
 )
 ```
 
-
+df
 
 Args:
 - **version:** The MobileNet version number. Use 1 for [MobileNetV1](https://github.com/tensorflow/models/blob/master/research/slim/nets/mobilenet_v1.md), and 2 for [MobileNetV2](https://github.com/tensorflow/models/tree/master/research/slim/nets/mobilenet). Defaults to 1.
